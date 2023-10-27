@@ -25,6 +25,9 @@ The dataset includes various features, such as age, sex, chest pain type, restin
 ## Installation
 
 To set up the required dependencies, you can run the following command:
+```bash
+pip install -r requirements.txt
+```
 ## Methodology
 
 The project follows the typical data science process:
@@ -46,5 +49,4 @@ You can run the project in a Jupyter Notebook environment. Follow the code in th
 
 The project analyzes feature importance for the Logistic Regression model. Features are weighted based on their contribution to the model's predictions.
 
-```bash
-pip install -r requirements.txt
+
